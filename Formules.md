@@ -117,7 +117,7 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - Salutationnitudes,
 - Cordon bleu,
 - Envoyé de mon Thunderbird avec mes petits doigts,
-- Envoyé depuis mon [Marque de téléphone] (en fait c'est faux mais si j'ai laissé trainé des fautes j'aurais une bonne excuse),
+- Envoyé depuis mon [Marque de téléphone] (en fait c'est faux mais si j'ai laissé trainer des fautes j'aurais une bonne excuse),
 - Peace, Unity, Love, and Having fun,
 - Keep calm, and be Happy / drive safely,
 - Mets ton cache-nez, l'hiver arrive,
